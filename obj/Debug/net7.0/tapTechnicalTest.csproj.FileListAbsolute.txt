@@ -1,0 +1,15 @@
+/Users/moonoidiary/Playground/Tap Technical Test/tapTechnicalTest/bin/Debug/net7.0/tapTechnicalTest
+/Users/moonoidiary/Playground/Tap Technical Test/tapTechnicalTest/bin/Debug/net7.0/tapTechnicalTest.deps.json
+/Users/moonoidiary/Playground/Tap Technical Test/tapTechnicalTest/bin/Debug/net7.0/tapTechnicalTest.runtimeconfig.json
+/Users/moonoidiary/Playground/Tap Technical Test/tapTechnicalTest/bin/Debug/net7.0/tapTechnicalTest.dll
+/Users/moonoidiary/Playground/Tap Technical Test/tapTechnicalTest/bin/Debug/net7.0/tapTechnicalTest.pdb
+/Users/moonoidiary/Playground/Tap Technical Test/tapTechnicalTest/obj/Debug/net7.0/tapTechnicalTest.csproj.AssemblyReference.cache
+/Users/moonoidiary/Playground/Tap Technical Test/tapTechnicalTest/obj/Debug/net7.0/tapTechnicalTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moonoidiary/Playground/Tap Technical Test/tapTechnicalTest/obj/Debug/net7.0/tapTechnicalTest.AssemblyInfoInputs.cache
+/Users/moonoidiary/Playground/Tap Technical Test/tapTechnicalTest/obj/Debug/net7.0/tapTechnicalTest.AssemblyInfo.cs
+/Users/moonoidiary/Playground/Tap Technical Test/tapTechnicalTest/obj/Debug/net7.0/tapTechnicalTest.csproj.CoreCompileInputs.cache
+/Users/moonoidiary/Playground/Tap Technical Test/tapTechnicalTest/obj/Debug/net7.0/tapTechnicalTest.dll
+/Users/moonoidiary/Playground/Tap Technical Test/tapTechnicalTest/obj/Debug/net7.0/refint/tapTechnicalTest.dll
+/Users/moonoidiary/Playground/Tap Technical Test/tapTechnicalTest/obj/Debug/net7.0/tapTechnicalTest.pdb
+/Users/moonoidiary/Playground/Tap Technical Test/tapTechnicalTest/obj/Debug/net7.0/tapTechnicalTest.genruntimeconfig.cache
+/Users/moonoidiary/Playground/Tap Technical Test/tapTechnicalTest/obj/Debug/net7.0/ref/tapTechnicalTest.dll
